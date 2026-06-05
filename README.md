@@ -91,7 +91,3 @@ Automatically created SQLite database with tables:
 - `GET/POST /api/fuel` - Fuel management
 - `GET/POST /api/maintenance` - Maintenance logs
 - `GET /api/reports/summary` - Reports
-
-## 📝 Version
-
-Version 1.0.0 - Ready for submission
